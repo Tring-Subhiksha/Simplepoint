@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class Simplepoint implements cloneable{
+public class Simplepoint implements cloneable{
     String xcoordinates;
     String ycoordinates;
     String x="10.9";
